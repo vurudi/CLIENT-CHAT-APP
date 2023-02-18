@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+
+#Modified by Vurui100
+*.txt
+#ignore PYQT ui files 
+*.ui
